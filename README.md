@@ -5,4 +5,7 @@ Links uz atskaiti
 https://rtucloud1-my.sharepoint.com/:w:/g/personal/haralds_kempelis_edu_rtu_lv/EUTm-PMe4AxBnxbxhl0kQLQBmZP75ohlQDUGb2n4k-c97Q?e=NXJo9O
 
 Links uz datu kopu
-https://archive.ics.uci.edu/dataset/186/wine+quality
+https://www.kaggle.com/datasets/utkarshx27/heart-disease-diagnosis-dataset/data
+
+Links uz datu kopu, no kuras izgūta mūsu pielietotā datu kopa
+https://archive.ics.uci.edu/dataset/45/heart+disease
